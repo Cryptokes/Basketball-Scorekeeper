@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background:gold;
+    color:navy;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.scorebox {
+    background: black;
+    display:flex;
+    justify-content:center;
+    color:gold;
+    padding:5px 30px;
+    align-items:center;
+    
+}
+.btns {
+    display:flex;
+    margin-top:20px;
+    justify-content: space-between;
+    height:28px;
+    color:black;
+    
+}
+.team {
+    display:flex;
+    justify-content: center;
+}
